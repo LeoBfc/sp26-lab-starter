@@ -12,10 +12,11 @@ step
 step
 print password
 finish
+next
 step
 next
 next
-print $1
+print meets_len_req
 print length
 quit
 

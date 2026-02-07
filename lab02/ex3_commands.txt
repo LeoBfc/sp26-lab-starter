@@ -5,9 +5,10 @@
 # Please add your commands below this line
 break check_number
 run
+next
 step
 backtrace
-break 31 if letter=='0'
+break 31 if lettern == '0'
 continue
 print letter
 print is_in_range
