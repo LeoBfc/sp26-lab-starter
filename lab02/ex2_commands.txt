@@ -5,19 +5,17 @@
 # Please add your commands below this line
 start
 next
-step
-step
-step
+next
+next
+next
 step
 step
 print password
 finish
 step
+next
+next
+print $1
 print length
-next
-next
-next
-next
-print $4
-finish
+quit
 
